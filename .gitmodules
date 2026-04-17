@@ -1,3 +1,6 @@
 [submodule "black-shores-home"]
 	path = black-shores-home
 	url = https://github.com/Jyotipm05/black-shores-home.git
+[submodule "black-shores-server"]
+	path = black-shores-server
+	url = https://github.com/Jyotipm05/black-shores-server.git
